@@ -1,0 +1,29 @@
+DOM :: Document Object Model
+defer and async  :Attributes  Downloads code after HTML/CSS with 
+  |          |
+  |          |
+order and unorder (i.e order Not Matter)
+respectively
+
+It is Dynamically Typed Language
+Data Types
+
+Primitive  + Data Types
+    # Boolean 
+    true and false
+
+    #undefined is NULL not 0 means not contain anything
+    
+
+    #Number Datatype
+
+
+UserDefined Data Types
+   #Object
+   #fuc
+   #variable 
+   $let
+      let myName ="Gaurav";
+      
+   $const
+   $var
